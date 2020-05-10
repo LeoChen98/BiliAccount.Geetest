@@ -1,5 +1,5 @@
 # BiliAccount.Geetest
-用于处理B站账号操作过程中的极验验证码|used to handle the geetset captcha for BiliAccount | https://github.com/LeoChen98/BiliAccount
+用于处理B站账号操作过程中的极验验证码|used to handle the geetset captcha for BiliAccount|[BiliAccount](https://github.com/LeoChen98/BiliAccount)的子项目
 
 [![Version](https://img.shields.io/github/release/LeoChen98/BiliAccount.Geetest.svg?label=Version)](https://github.com/LeoChen98/BiliAccount.Geetest/releases)
 [![GitHub issues](https://img.shields.io/github/issues/LeoChen98/BiliAccount.Geetest.svg)](https://github.com/LeoChen98/BiliAccount.Geetest/issues)
@@ -9,17 +9,18 @@
 [![Pull Request Welcome](https://img.shields.io/badge/Pull%20request-welcome-brightgreen.svg)](#)
 [![GitHub license](https://img.shields.io/github/license/LeoChen98/BiliAccount.Geetest.svg)](https://github.com/LeoChen98/BiliAccount.Geetest/blob/master/LICENSE)
 
+
 ## 支持与依赖
 框架|版本|依赖|备注
 ---|---|---|---
-.net framework|≥3.5|（无）|`2.0.0.7`前只支持`.net framework 4.5`
-.net standard|≥2.0|[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)<br/>[QRCoder](//github.com/codebude/QRCoder/) (≥ 1.3.6)<br/>[System.Drawing.Common](//github.com/dotnet/corefx) (≥ 4.7.0)|`2.0.0.7`起支持
-.net core|≥3.0|[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)<br/>[QRCoder](//github.com/codebude/QRCoder/) (≥ 1.3.6)<br/>[System.Drawing.Common](//github.com/dotnet/corefx) (≥ 4.7.0)|`2.0.2.9`起支持
+.net framework|≥34.5|[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)|（无）
+.net standard|≥2.0|[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)<br/>[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)|（无）
+.net core|≥3.0|[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)<br/>[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)|（无）
 
 ## 项目结构
 项目名|备注
 --|--
-[BiliAccount.Geetest](https://github.com/LeoChen98/BiliAccount.Geetest/wiki/BiliAccount)|BiliAccount.Geetest类库
+[BiliAccount.Geetest](https://github.com/LeoChen98/BiliAccount.Geetest/wiki/BiliAccount.Geetest)|BiliAccount.Geetest类库
 
 ## 获取与使用
 
@@ -30,10 +31,10 @@
 
 工具|命令/代码
 --|--
-Package Manager|`Install-Package BiliAccount.Geetest -Version 2.2.0.12`
-.NET CLI|`dotnet add package BiliAccount.Geetest --version 2.2.0.12`
-PackageReference|`<PackageReference Include="BiliAccount.Geetest" Version="2.2.0.12" />`
-Packet CLI|`paket add BiliAccount.Geetest --version 2.2.0.12`
+Package Manager|`Install-Package BiliAccount.Geetest -Version 1.0.1.1`
+.NET CLI|`dotnet add package BiliAccount.Geetest --version 1.0.1.1`
+PackageReference|`<PackageReference Include="BiliAccount.Geetest" Version="1.0.1.1" />`
+Packet CLI|`paket add BiliAccount.Geetest --version 1.0.1.1`
 
 具体使用方法请见[Wiki](https://github.com/LeoChen98/BiliAccount.Geetest/wiki)
 
