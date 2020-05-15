@@ -13,9 +13,9 @@
 ## 支持与依赖
 框架|版本|依赖|备注
 ---|---|---|---
-.net framework|≥4.5|[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)|（无）
-.net standard|≥2.0|[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)<br/>[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)|（无）
-.net core|≥3.0|[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)<br/>[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)|（无）
+.net framework|≥4.5|[BiliAccount](//github.com/LeoChen98/BiliAccount) (≥ 2.5.0.22)<br/>[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)|（无）
+.net standard|≥2.0|[BiliAccount](//github.com/LeoChen98/BiliAccount) (≥ 2.5.0.22)<br/>[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)<br/>[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)|（无）
+.net core|≥3.0|[BiliAccount](//github.com/LeoChen98/BiliAccount) (≥ 2.5.0.22)<br/>[Titanium.Web.Proxy](//github.com/justcoding121/Titanium-Web-Proxy) (≥ 3.1.1301)<br/>[Newtonsoft.Json](//github.com/JamesNK/Newtonsoft.Json) (≥ 12.0.3)|（无）
 
 ## 项目结构
 项目名|备注
