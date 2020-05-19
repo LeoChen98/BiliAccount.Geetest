@@ -38,5 +38,8 @@ Packet CLI|`paket add BiliAccount.Geetest --version 1.0.1.1`
 
 具体使用方法请见[Wiki](https://github.com/LeoChen98/BiliAccount.Geetest/wiki)
 
+## 致谢
+* 感谢[@暗影吉他手](https://weibo.com/cotaku39)大佬提供的思路。
+
 ## 开放源代码许可
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLeoChen98%2FBiliAccount.Geetest.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLeoChen98%2FBiliAccount.Geetest?ref=badge_large)
